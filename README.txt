@@ -56,6 +56,6 @@ Collision logic implemented in: Game.h/.cpp and Mob.h/.cpp
 
 - processRiverCollision handles a river collision and moves the object back as long as it is still on the river
 
-CheckBuildingCollision is a Boolean function that returns true if there is a collision with a building
+- CheckBuildingCollision is a Boolean function that returns true if there is a collision with a building
 
-ProcessBuildingCollision handles the building collisions by bouncing the player back
+- ProcessBuildingCollision handles the building collisions by bouncing the player back
